@@ -17,6 +17,6 @@ print(name[-4:-1])          # This is a negative index which is same as [1:4]
 #Skip Value
 name = "Shankaranpellai"    # not clear
 d = name[1::2]
-print(d)
+print(d)        
 
 
